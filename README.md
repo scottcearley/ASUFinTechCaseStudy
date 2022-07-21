@@ -58,7 +58,9 @@
 * If you were to advise the company, what products or services would you suggest they offer? 
   * To be honest, this is tough to answer, they have over 50 products that have been under their roof, which focus on safety, security, compliance, and auditing.  They also are responsible for projects that focus on infrastrucure of Defi space and the largest programmable smart chart blockchain in existence.  The most recent products should be an excellent addition to their line, both Infura and Metamask will have NFT options.  
 * Why do you think that offering this product or service would benefit the company?
-  * We know about the artists on in the NFT space, with Bored Apes, and the Crypto Kitties, but NFTs will help music artists direct get music to their fans, bypassing record companies and streaming services like Spotify, NFTs are being used by companies and organizations to reward customers and their VIPs.  
+ <br></br>  
+  * We know about the artists on in the NFT space, with Bored Apes, and the Crypto Kitties, but NFTs will help music artists direct get music to their fans, bypassing record companies and streaming services like Spotify, NFTs are being used by companies and organizations to reward customers and their VIPs.
+   <br></br>  
 * What technologies would this additional product or service utilize?
     * NFTs will have additional case uses, such as digital identity, ticketing for events, and music artists.  More industry disruption is around the corner for NFTs in my humble opinion
 
