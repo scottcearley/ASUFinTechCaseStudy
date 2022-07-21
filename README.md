@@ -15,7 +15,7 @@
 ## Business Activities: [![](./images/pin.svg)](#business-activities)
 
 * What specific financial problem is the company or project trying to solve?
-  * ConsenSys has founded many applications in the DeFi arena, to include Metamask, Infura, Truffle Suite, Codedefi, and Diligence. They build Ethereum software to enable developers and organizations to build applications on the decentralized web (web3).
+  * ConsenSys has founded many applications in the [DeFi](https://academy.moralis.io/blog/why-the-defi-space-could-see-huge-growth-over-the-coming-years?utm_source=blog&utm_medium=post&utm_campaign=What%2520is%2520ConsenSys%253F%2520-%2520The%2520Ultimate%2520Guide) arena, to include Metamask, Infura, Truffle Suite, Codedefi, and Diligence. They build Ethereum software to enable developers and organizations to build applications on the decentralized web (web3).
  <br></br>
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
